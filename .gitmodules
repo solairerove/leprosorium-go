@@ -10,3 +10,6 @@
 [submodule "go-var-declaration-playground"]
 	path = go-var-declaration-playground
 	url = git@github.com:solairerove/go-var-declaration-playground.git
+[submodule "go-own-type-playground"]
+	path = go-own-type-playground
+	url = git@github.com:solairerove/go-own-type-playground.git
