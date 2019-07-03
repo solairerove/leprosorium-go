@@ -2,3 +2,8 @@
 	path = go-hello-playground
 	url = git@github.com:solairerove/go-hello-playground.git
 	branch = master
+	
+[submodule "go-short-declaration-playground"]
+	path = go-short-declaration-playground
+	url = git@github.com:solairerove/go-short-declaration-playground.git
+	branch = master
