@@ -1,0 +1,4 @@
+[submodule "go-hello-playground"]
+	path = go-hello-playground
+	url = git@github.com:solairerove/go-hello-playground.git
+	branch = master
