@@ -7,3 +7,6 @@
 	path = go-short-declaration-playground
 	url = git@github.com:solairerove/go-short-declaration-playground.git
 	branch = master
+[submodule "go-var-declaration-playground"]
+	path = go-var-declaration-playground
+	url = git@github.com:solairerove/go-var-declaration-playground.git
