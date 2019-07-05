@@ -22,3 +22,8 @@
 	path = go-ninja-lvl-1-playground
 	url = git@github.com:solairerove/go-ninja-lvl-1-playground.git
 	branch = master
+
+[submodule "go-ninja-lvl-2-playground"]
+	path = go-ninja-lvl-2-playground
+	url = git@github.com:solairerove/go-ninja-lvl-2-playground.git
+	branch = master
