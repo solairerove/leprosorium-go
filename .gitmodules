@@ -42,3 +42,8 @@
 	path = go-groupping-data-playground
 	url = git@github.com:solairerove/go-groupping-data-playground.git
 	branch = master
+	
+[submodule "go-ninja-lvl-4-playground"]
+	path = go-ninja-lvl-4-playground
+	url = git@github.com:solairerove/go-ninja-lvl-4-playground.git
+  branch = master
