@@ -47,3 +47,13 @@
 	path = go-ninja-lvl-4-playground
 	url = git@github.com:solairerove/go-ninja-lvl-4-playground.git
   branch = master
+
+[submodule "go-ninja-lvl-5-playground"]
+	path = go-ninja-lvl-5-playground
+	url = git@github.com:solairerove/go-ninja-lvl-5-playground.git
+	branch = master
+
+[submodule "go-struct-playground"]
+	path = go-struct-playground
+	url = git@github.com:solairerove/go-struct-playground.git
+	branch = master
