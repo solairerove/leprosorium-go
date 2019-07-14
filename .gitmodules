@@ -87,3 +87,8 @@
 	path = go-ninja-lvl-8-playground
 	url = git@github.com:solairerove/go-ninja-lvl-8-playground.git
 	branch = master
+
+[submodule "go-bit-shifting-playground"]
+	path = go-bit-shifting-playground
+	url = git@github.com:solairerove/go-bit-shifting-playground.git
+	branch = master
