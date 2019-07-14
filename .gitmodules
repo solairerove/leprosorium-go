@@ -77,3 +77,13 @@
 	path = go-ninja-lvl-7-playground
 	url = git@github.com:solairerove/go-ninja-lvl-7-playground.git
 	branch = master
+
+[submodule "go-encoding-playground"]
+	path = go-encoding-playground
+	url = git@github.com:solairerove/go-encoding-playground.git
+	branch = master
+
+[submodule "go-ninja-lvl-8-playground"]
+	path = go-ninja-lvl-8-playground
+	url = git@github.com:solairerove/go-ninja-lvl-8-playground.git
+	branch = master
