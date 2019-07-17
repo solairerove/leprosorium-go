@@ -103,3 +103,12 @@
 	url = git@github.com:solairerove/go-ninja-lvl-9-playground.git
 	branch = master
 	
+[submodule "go-ninja-lvl-10-playground"]
+	path = go-ninja-lvl-10-playground
+	url = git@github.com:solairerove/go-ninja-lvl-10-playground.git
+	branch = master
+
+[submodule "go-channels-playground"]
+	path = go-channels-playground
+	url = git@github.com:solairerove/go-channels-playground.git
+	branch = master
