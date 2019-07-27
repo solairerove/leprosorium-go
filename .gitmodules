@@ -112,9 +112,13 @@
 	path = go-channels-playground
 	url = git@github.com:solairerove/go-channels-playground.git
 	branch = master
+
 [submodule "go-error-handling-playground"]
 	path = go-error-handling-playground
 	url = git@github.com:solairerove/go-error-handling-playground.git
+	branch = master
+
 [submodule "go-ninja-lvl-11-playground"]
 	path = go-ninja-lvl-11-playground
 	url = git@github.com:solairerove/go-ninja-lvl-11-playground.git
+	branch = master
