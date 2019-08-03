@@ -127,3 +127,8 @@
 	path = go-documentation-playground
 	url = git@github.com:solairerove/go-documentation-playground.git
 	branch = master
+
+[submodule "go-testing-playground"]
+	path = go-testing-playground
+	url = git@github.com:solairerove/go-testing-playground.git
+	branch = master
